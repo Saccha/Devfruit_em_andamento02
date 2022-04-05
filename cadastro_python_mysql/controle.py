@@ -1,3 +1,8 @@
+'''
+criando imagem:
+docker run --name devfruit-mysql -p 3306:3306 -e MYSQL_ROOT_PASSWORD=devfruit -d mysql
+
+'''
 from PyQt5 import  uic,QtWidgets
 import mysql.connector 
 
