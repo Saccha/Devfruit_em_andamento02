@@ -1,5 +1,3 @@
-# Devfruit_em_andamento02
-
 # Desenvolvimento Hortfruit parte 02
 
 
