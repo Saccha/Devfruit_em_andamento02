@@ -1,0 +1,13 @@
+USE `cadastro_produtos`;
+
+CREATE TABLE produtos(
+	id INT NOT NULL AUTO_INCREMENT,
+    codigo INT,
+    descricao VARCHAR(50),
+    preco DOUBLE,
+    categoria VARCHAR(20),
+    PRIMARY KEY(id)
+);
+
+
+
